@@ -4,6 +4,7 @@ This project demonstrates the analysis of retail orders using SQL and Python. Th
 
 Project Setup
 Prerequisites
+
 Python 3.x installed.
 
 MySQL Server running locally or remotely.
